@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Tulis, bagikan, dan temukan kisah luar biasa dari para penulis seperti Kamu. Mulailah perjalanan kreatif Kamu hari ini!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk menulis dan berbagi cerita menarik?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Menulis Cerita.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="home">Beranda</string>
+    <string name="upload">Unggah</string>
+    <string name="upload_story">Unggah Cerita</string>
+    <string name="photo_preview">"Preview Foto "</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="title_story">Judul</string>
+    <string name="description_story">Deskripsi</string>
+    <string name="error_length">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="error_email">Harap Masukkan Email Yang Valid</string>
+    <string name="success_upload">Cerita Berhasil Di Unggah</string>
+    <string name="failed_upload"><![CDATA[Unggahan Gagal, Harap Unggah Gambar & Berikan Deskripsi]]></string>
+</resources>
